@@ -1,0 +1,5 @@
+LEAVE_TYPE = 'leave_type'
+REVISION_TYPE = 'revision_type'
+EMPLOYEE = 'employee'
+NUMBER_OF_DAYS = 'number_of_days'
+REQUEST_STATUS = 'request_status'

@@ -1,0 +1,9 @@
+Django==2.1.5
+django-cors-headers==2.4.0
+djangorestframework==3.9.1
+pytz==2018.9
+mysqlclient==1.3.12
+django-rest-auth==0.9.3
+coreapi==2.3.3
+coverage==4.5.2
+
